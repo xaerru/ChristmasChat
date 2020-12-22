@@ -1,0 +1,16 @@
+{
+  "name": "nodechatapp",
+  "version": "1.0.0",
+  "description": "Chat app built using node.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Gauravsingh Sisodia",
+  "license": "ISC",
+  "dependencies": {
+    "ejs": "^3.1.5",
+    "express": "^4.17.1",
+    "socket.io": "^3.0.4"
+  }
+}
