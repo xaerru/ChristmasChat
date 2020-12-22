@@ -1,4 +1,4 @@
-# node-chat-app
+# ChristmasChat
 
 A simple Christmas themed chatapp built using Node.js and Express.js.
 
@@ -7,7 +7,7 @@ A simple Christmas themed chatapp built using Node.js and Express.js.
 Clone the repo.
 
 ```bash
-git clone https://github.com/gauravsingh5/node-chat-app
+git clone https://github.com/gauravsingh5/ChristmasChat
 ```
 
 Start the app using 
