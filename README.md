@@ -1,6 +1,6 @@
 # node-chat-app
 
-A simple Christmas Themed chatapp built using Node.js and Express.js.
+A simple Christmas themed chatapp built using Node.js and Express.js.
 
 ## Installation
 
